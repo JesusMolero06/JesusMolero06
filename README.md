@@ -1,46 +1,43 @@
-# Hola, soy Jesús Molero Reyes 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3A8A,100:6D28D9&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Desarrollador%20Web%20Full%20Stack%20%7C%20Estudiante%20de%202%C2%BA%20DAM&descSize=18&descAlignY=58&section=header" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack" />
 
-Tengo 20 años y estudio **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-Me gusta el desarrollo web completo: desde el **frontend** que ve el usuario hasta el **backend** y la **base de datos** que hay detrás.
-Disfruto llevando mis proyectos a internet con herramientas como **Cloudflare**, **Netlify** y **GitHub**.
+## 👨‍💻 Sobre mí
 
-[![Email](https://img.shields.io/badge/Email-jesusmoleror06%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jesusmoleror06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JesusMolero06-181717?logo=github)](https://github.com/JesusMolero06)
-
----
+Soy estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Me apasiona el desarrollo web completo: desde el **frontend** que ve el usuario hasta el **backend** y la **base de datos** que hay detrás.
+Me interesa especialmente el **diseño web** y la **inteligencia artificial**.
+Siempre aprendiendo, construyendo proyectos y buscando nuevos retos.
 
 ## 🛠️ Tecnologías
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java (Maven, JDBC)
-- **Bases de datos:** MySQL, PostgreSQL
-- **Despliegue y herramientas:** Git y GitHub, Cloudflare Pages, Netlify, Odoo
+**Lenguajes**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js" alt="Java y JavaScript" />
 
----
+**Frontend**
 
-## 🎯 Intereses
+<img src="https://skillicons.dev/icons?i=html,css" alt="HTML y CSS" />
 
-- **Diseño y desarrollo web:** crear páginas cuidadas, rápidas y que se vean bien en cualquier pantalla.
-- **Inteligencia artificial:** aplicarla en proyectos reales y aprender cómo integrarla en aplicaciones web.
+**Backend y bases de datos**
 
----
+<img src="https://skillicons.dev/icons?i=maven,mysql,postgres" alt="Maven, MySQL y PostgreSQL" />
+
+**Herramientas y despliegue**
+
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare,netlify" alt="Git, GitHub, Cloudflare y Netlify" />
+
+También he trabajado con **Odoo** (ERP) en clase.
 
 ## 🚀 Proyectos
 
 <!-- PENDIENTE: añadir al menos 3 proyectos, cada uno con una frase y su enlace -->
 
----
-
 ## 📊 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JesusMolero06&show_icons=true)
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=JesusMolero06&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de JesusMolero06" />
 
 ## 📫 Contacto
 
-¿Quieres hablar conmigo? Escríbeme a **[jesusmoleror06@gmail.com](mailto:jesusmoleror06@gmail.com)**.
+[![Email](https://img.shields.io/badge/Email-jesusmoleror06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusmoleror06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JesusMolero06-181717?style=for-the-badge&logo=github)](https://github.com/JesusMolero06)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E3A8A,100:6D28D9&section=footer" width="100%" alt="" />
