@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,100:1E3A5F&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=F8FAFC&fontSize=46&fontAlignY=40&desc=Desarrollador%20Web%20Full%20Stack%20Junior&descSize=18&descAlignY=66&descColor=CBD5E1" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack Junior" />
+<img src="banner.svg" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack" />
 
 ### Perfil
 
