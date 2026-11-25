@@ -1,4 +1,10 @@
-<img src="banner.svg" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=F5F0E8&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=1C1917&fontSize=50&fontAlignY=42&desc=JM%20%C2%B7%20DEVELOPER&descColor=B08D57&descSize=16&descAlignY=70&animation=fadeIn" width="100%" alt="Jesús Molero Reyes - JM Developer" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=3500&pause=1200&color=B08D57&center=true&vCenter=true&width=700&lines=Desarrollador+Web+Full+Stack;Java+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Cloud;Disponible+para+pr%C3%A1cticas+en+empresa" alt="Desarrollador Web Full Stack" />
+</p>
+
+---
 
 ### Perfil
 
@@ -31,7 +37,4 @@ Mi objetivo profesional es el **diseño y desarrollo web** y la integración de 
 
 ---
 
-### Contacto
-
-[![Email](https://img.shields.io/badge/Email-jesusmoleror06%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:jesusmoleror06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JesusMolero06-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/JesusMolero06)
+###
