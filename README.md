@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=F5F0E8&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=1C1917&fontSize=50&fontAlignY=42&desc=JM%20%C2%B7%20DEVELOPER&descColor=B08D57&descSize=16&descAlignY=70&animation=fadeIn" width="100%" alt="Jesús Molero Reyes - JM Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1C1917,100:4A3B2A&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=E8D5A3&fontSize=52&fontAlignY=36&desc=Desarrollador%20Web%20Full%20Stack&descColor=F5F0E8&descSize=18&descAlignY=56&animation=fadeIn&section=header" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=3500&pause=1200&color=B08D57&center=true&vCenter=true&width=700&lines=Desarrollador+Web+Full+Stack;Java+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Cloud;Disponible+para+pr%C3%A1cticas+en+empresa" alt="Desarrollador Web Full Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=3500&pause=1200&color=B08D57&center=true&vCenter=true&width=700&lines=Estudiante+de+2%C2%BA+DAM;Frontend+%C2%B7+Backend+%C2%B7+Bases+de+datos;Disponible+para+pr%C3%A1cticas+en+empresa" alt="Estudiante de 2º DAM - Disponible para prácticas" />
 </p>
 
 ---
@@ -33,8 +33,13 @@ Mi objetivo profesional es el **diseño y desarrollo web** y la integración de 
 
 ### Proyectos
 
-<!-- PENDIENTE: añadir al menos 3 proyectos, cada uno con una frase y su enlace -->
+Próximamente.
 
 ---
 
-###
+### Contacto
+
+- **Email:** [jesusmoleror06@gmail.com](mailto:jesusmoleror06@gmail.com)
+- **GitHub:** [github.com/JesusMolero06](https://github.com/JesusMolero06)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4A3B2A,100:1C1917&section=footer" width="100%" alt="" />
