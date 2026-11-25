@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1C1917,100:4A3B2A&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=E8D5A3&fontSize=52&fontAlignY=36&desc=Desarrollador%20Web%20Full%20Stack&descColor=F5F0E8&descSize=18&descAlignY=56&animation=fadeIn&section=header" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:F5F0E8,100:E9DFCF&text=Jes%C3%BAs%20Molero%20Reyes&fontColor=1C1917&fontSize=52&fontAlignY=36&desc=Desarrollador%20Web%20Full%20Stack&descColor=B08D57&descSize=18&descAlignY=56&animation=fadeIn&section=header" width="100%" alt="Jesús Molero Reyes - Desarrollador Web Full Stack" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=24&duration=3500&pause=1200&color=B08D57&center=true&vCenter=true&width=700&lines=Estudiante+de+2%C2%BA+DAM;Frontend+%C2%B7+Backend+%C2%B7+Bases+de+datos;Disponible+para+pr%C3%A1cticas+en+empresa" alt="Estudiante de 2º DAM - Disponible para prácticas" />
@@ -42,4 +42,4 @@ Próximamente.
 - **Email:** [jesusmoleror06@gmail.com](mailto:jesusmoleror06@gmail.com)
 - **GitHub:** [github.com/JesusMolero06](https://github.com/JesusMolero06)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:4A3B2A,100:1C1917&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:E9DFCF,100:F5F0E8&section=footer" width="100%" alt="" />
